@@ -15,8 +15,10 @@ const valorPi = 3.1416;
 //     // alert(numero)
 //     // alert(saludo)
 //     // valorPi = 5;
-// }
+// 
 
+alert ("hola desde el alert")
+console.log ("hola desde la consola")
 
 // alert(typeof validacion)
 // alert(numero++)
